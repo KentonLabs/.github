@@ -8,7 +8,6 @@ Developer tools for focused, high-signal software work.
 
 ## Links
 
-- Organization: [github.com/KentonLabs](https://github.com/KentonLabs)
+- Website: [kentonlabs.github.io](https://kentonlabs.github.io)
+- Privacy: [kentonlabs.github.io/privacy](https://kentonlabs.github.io/privacy/)
 - PairPilot: [github.com/KentonLabs/pairpilot](https://github.com/KentonLabs/pairpilot)
-
-Coming soon: JetBrains Marketplace listing and website.
